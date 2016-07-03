@@ -1,1 +1,1 @@
-记录一些计划学习内容，驱动自己去学习
+A TODO-LIST and relevant materils
